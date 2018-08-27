@@ -1,4 +1,4 @@
-### Tugas 02 Analisis Kebutuhan Proyek Akhir ###
+### Analisis Kebutuhan Proyek Akhir ###
 
 * Diskusikan sistem informasi yang akan dibuat oleh kelompok Anda. Tuliskan sistem yang akan dibuat!
 * Buatlah analisis kebutuhan terhadap sistem informasi yang akan kelompok Anda buat!
@@ -6,7 +6,7 @@
 ### Format File Tugas ###
 
 * Ekstensi file berupa .docx atau .pdf
-* Nama file: 02_Kelas_Nama Tim
+* Nama file: Rencana PA_Kelas_Nama Tim
 * Halaman Cover memuat kelas, nama tim dan identitas anggota tim (NIM dan Nama)
 
 ### Prosedur Pengumpulan Tugas ###
